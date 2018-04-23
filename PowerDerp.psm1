@@ -1,7 +1,7 @@
 #For formatting the formatting-sensitive XML RSS feed files
 $global:Tab = [char]9
 $global:Enter = [char]13
-#Derp
+#DerpHerp
 #Counter
 $global:ItemsAdded
 
